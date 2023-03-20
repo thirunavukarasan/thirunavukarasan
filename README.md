@@ -25,7 +25,16 @@ Hi there 👋, I am Thiru
 <p>Tailwind</p>
 <p>Bootstrap</p>
 
+<h2>Cloud Platfrom</h2>
+<p>AWS - Amazon web services</p>
 
+<h2>Database</h2>
+<p>DynamoDB</p>
+<p>MongoDB</p>
+<p>MySQL</p>
 
+<h2>Module Bundler</h2>
+<p>Webpack</p>
+<p>Rollup</p>
 
 
